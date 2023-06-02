@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360905852793",
+    "project_id": "auditapp-ab83a",
+    "storage_bucket": "auditapp-ab83a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360905852793:android:9c862452737891c334d1a8",
+        "android_client_info": {
+          "package_name": "com.example.auditappfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTPV_36A9QCQIVkdOsLZVDEbA4DuifgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
